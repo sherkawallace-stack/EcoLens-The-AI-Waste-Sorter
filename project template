@@ -1,5 +1,5 @@
 Project Name: EcoLens – The AI Waste Sorter
-Your idea in a nutshell
+My idea in a nutshell
 EcoLens is a mobile-ready AI application designed to help users identify the correct recycling bin for their waste. By snapping a photo of an item, the AI classifies it as "Recyclable," "Compostable," or "Trash," reducing contamination in recycling streams.
 
 Background
@@ -21,7 +21,7 @@ I plan to use Transfer Learning (using a pre-trained model like MobileNet) to en
 I will use Python libraries like TensorFlow or PyTorch for the model development.
 
 How is it used
-Context: The primary user is a consumer at home or in an office setting standing in front of their trash cans.
+Context: The primary user is a consumer at home or in an office setting, standing in front of their trash cans.
 
 Impacted People: The solution affects consumers (who gain clarity), waste management facilities (who receive cleaner recycling streams), and the broader environment.
 
