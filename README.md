@@ -1,6 +1,6 @@
 
 
-# Ecolens
+# Project Title
 Ecolens
 Final project for the Building AI course
 
