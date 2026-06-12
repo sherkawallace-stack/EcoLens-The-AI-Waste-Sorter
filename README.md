@@ -1,10 +1,13 @@
-# Project Title
+<!-- This is the markdown template for the final project of the Building AI course, 
+created by Reaktor Innovations and University of Helsinki. 
+Copy the template, paste it to your GitHub README and edit! -->
 
+# Project Title
+Ecolens
 Final project for the Building AI course
 
-
 ## Summary
-Project Name: EcoLens – The AI Waste Sorter
+EcoLens – The AI Waste Sorter
 My idea in a nutshell
 EcoLens is a mobile-ready AI application designed to help users identify the correct recycling bin for their waste. By snapping a photo of an item, the AI classifies it as "Recyclable," "Compostable," or "Trash," reducing contamination in recycling streams.
 
@@ -47,3 +50,25 @@ Acknowledgments
 I want to acknowledge the creators of the TrashNet dataset for providing the foundational data.
 
 Inspired by the open-source community on GitHub and tutorials from Fast.ai.
+
+## Background
+
+
+
+
+## How is it used?
+
+
+
+## Data sources and AI methods
+
+
+## Challenges
+
+
+## What next?
+
+
+
+
+## Acknowledgments
